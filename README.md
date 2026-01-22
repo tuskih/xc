@@ -10,6 +10,8 @@ Only supports minecraft 1.16.5, 1.18.2, 1.20 and 1.20.1. Building compiles a `.j
 specific to that minecraft version. Server also requires paper as 
 this uses the paper api.
 
+To build go to where src file is located, open the folder in terminal and run ./gradlew build -P version
+
 ## Source structure:
 ```
 xc/
