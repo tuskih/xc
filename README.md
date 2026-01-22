@@ -70,3 +70,7 @@ Reference table of expected speed is below (<https://minecraft.fandom.com/wiki/S
 | Sprint      |  5.61            |
 | Jump-sprint |  7.13            |
 | Max horse   | 14.57            |
+
+# NOTE
+
+This is **NOT** the original xc, the original xc can be found [here](https://github.com/phonon/minecraft-xc)
